@@ -1,1 +1,1 @@
-## Bayesien Optimization
+## Bayesien Optimization - Efficient Global Optimization
